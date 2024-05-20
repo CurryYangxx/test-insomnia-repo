@@ -1,7 +1,7 @@
 _id: spc_e62579cb2d2743bc9aac06e140af3a03
 type: ApiSpec
 parentId: wrk_25d94f9a58084389a544b53393f94c2d
-modified: 1716188405783
+modified: 1716189101309
 created: 1716188405783
 fileName: test-insomnia-repo.git
 contents: >
@@ -11,7 +11,7 @@ contents: >
     description: "This is a sample server Petstore server.  You can find out more about
       Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net,
       #swagger](http://swagger.io/irc/).  For this sample, you can use the api key
-      'special-key' to test the authorization filters."
+      'special-key' to test the authorization filters.aaaa"
     version: 1.0.2
     title: Swagger Petstore
     termsOfService: http://swagger.io/terms/
